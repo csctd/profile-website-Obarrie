@@ -1,6 +1,6 @@
-# Page Title
+# Profile Page
 
-A short introduction for the top of your main page
+Hello my name is Osman Barrie, I was born in Sierra Leone but I currently live in the US.
 
 
 More content you want on your page
