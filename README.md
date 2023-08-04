@@ -21,7 +21,7 @@ This template is designed for use in the URI CS TD SSP.
 The easiest way to build the website is to use `nox`, which handles all of the environment generation automatically.
 To do so, follow these steps:
 
-1. Install `nox`.
+2. Install `nox`.
 
    ```shell
    pip install -U nox
